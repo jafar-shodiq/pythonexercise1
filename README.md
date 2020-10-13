@@ -1,1 +1,1 @@
-# pythonexercise1
+# Daily python exercises from https://github.com/darkprinx/100-plus-Python-programming-exercises-extended. Superb!
